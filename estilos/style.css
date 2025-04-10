@@ -168,16 +168,16 @@ font-size: 30px;
 }
 .main .galeria {
     overflow: hidden;
+    display:grid;
 }
 .main .galeria .fotos {
     width: 25%;
     float: left;
-}
-.main .galeria .fotos {
+    display: grid;
     width: 100%;
     vertical-align: top;
     opacity: .7;
-    width: 120px;
+    width: 60px;
     height: 120px;
     margin: 9px 6px;
 }
@@ -186,3 +186,5 @@ font-size: 30px;
     -webkit-transition: all .3s ease;
     transition: all .3s ease;
 }
+
+
