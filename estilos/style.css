@@ -65,14 +65,14 @@ header .texto {
     margin-top: -80px;
 }
 header .texto .nombre {
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 600;
 }
 header .texto .nombre span {
-    font-weight: 200;
+    font-weight: 30;
 }
 header .texto h3 {
-    font-weight: 300;
+    font-weight: 30;
     font-size: 25px;
     font-style: italic;
 }
@@ -109,7 +109,7 @@ header .texto h3 {
     margin: 100px 50px;
 }
 .main .acerca-de article {
-    background: #fff;
+    background: #fb0000;
     padding: 40px;
     width: 50%;
     position: relative;
@@ -119,7 +119,7 @@ header .texto h3 {
     box-shadow: 0px 0px 35px rgba(0, 0, 0, 0.35);
 }
 .main .acerca-de .contenedor h3{
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 300;
     margin-bottom: 40px;
 }
